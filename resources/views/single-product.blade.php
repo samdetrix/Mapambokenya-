@@ -30,30 +30,30 @@
                         <h2 class="sidebar-title">Products</h2>
                         <div class="thubmnail-recent">
                             <img src="{{ asset('img/product-thumb-1.jpg') }}" class="recent-thumb" alt="">
-                            <h2><a href="">Sony Smart TV - 2015</a></h2>
+                            <h2><a href="">Cufflinks</a></h2>
                             <div class="product-sidebar-price">
-                                <ins>$700.00</ins> <del>$100.00</del>
+                                <ins>kes 300</ins> <del>kes 400</del>
                             </div>                             
                         </div>
                         <div class="thubmnail-recent">
                             <img src="{{ asset('img/product-thumb-1.jpg') }}" class="recent-thumb" alt="">
-                            <h2><a href="">Sony Smart TV - 2015</a></h2>
+                            <h2><a href="">Earrings</a></h2>
                             <div class="product-sidebar-price">
-                                <ins>$700.00</ins> <del>$100.00</del>
+                                <ins>kes 200</ins> <del>kes 250</del>
                             </div>                             
                         </div>
                         <div class="thubmnail-recent">
                             <img src="{{ asset('img/product-thumb-1.jpg') }}" class="recent-thumb" alt="">
-                            <h2><a href="">Sony Smart TV - 2015</a></h2>
+                            <h2><a href="">Watches</a></h2>
                             <div class="product-sidebar-price">
-                                <ins>$700.00</ins> <del>$100.00</del>
+                                <ins>kes 200</ins> <del>kes 300</del>
                             </div>                             
                         </div>
                         <div class="thubmnail-recent">
                             <img src="{{ asset('img/product-thumb-1.jpg') }}" class="recent-thumb" alt="">
-                            <h2><a href="">Sony Smart TV - 2015</a></h2>
+                            <h2><a href="">Chockers</a></h2>
                             <div class="product-sidebar-price">
-                                <ins>$700.00</ins> <del>$100.00</del>
+                                <ins>kes 200</ins> <del>kes 300</del>
                             </div>                             
                         </div>
                     </div>
@@ -61,11 +61,12 @@
                     <div class="single-sidebar">
                         <h2 class="sidebar-title">Recent Posts</h2>
                         <ul>
-                            <li><a href="">Sony Smart TV - 2015</a></li>
-                            <li><a href="">Sony Smart TV - 2015</a></li>
-                            <li><a href="">Sony Smart TV - 2015</a></li>
-                            <li><a href="">Sony Smart TV - 2015</a></li>
-                            <li><a href="">Sony Smart TV - 2015</a></li>
+                            <li><a href="">Watches </a></li>
+                            <li><a href="">Watches </a></li>
+                            <li><a href="">Watches </a></li>
+                            <li><a href="">Watches </a></li>
+                            <li><a href="">Watches </a></li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -75,7 +76,7 @@
                         <div class="product-breadcroumb">
                             <a href="">Home</a>
                             <a href="">Category Name</a>
-                            <a href="">Sony Smart TV - 2015</a>
+                            <a href="">Rings</a>
                         </div>
                         
                         <div class="row">
@@ -95,9 +96,9 @@
                             
                             <div class="col-sm-6">
                                 <div class="product-inner">
-                                    <h2 class="product-name">Sony Smart TV - 2015</h2>
+                                    <h2 class="product-name">Tie holder</h2>
                                     <div class="product-inner-price">
-                                        <ins>$700.00</ins> <del>$100.00</del>
+                                        <ins>kes 200</ins> <del>kes 300</del>
                                     </div>    
                                     
                                     <form action="" class="cart">
@@ -163,10 +164,10 @@
                                         </div>
                                     </div>
 
-                                    <h2><a href="">Sony Smart TV - 2015</a></h2>
+                                    <h2><a href="">Ankaras</a></h2>
 
                                     <div class="product-carousel-price">
-                                        <ins>$700.00</ins> <del>$100.00</del>
+                                        <ins>kes 150</ins> <del>kes 200</del>
                                     </div> 
                                 </div>
                                 <div class="single-product">
@@ -178,9 +179,9 @@
                                         </div>
                                     </div>
 
-                                    <h2><a href="">Apple new mac book 2015 March :P</a></h2>
+                                    <h2><a href="">A new designed FRICAN aNKARA :P</a></h2>
                                     <div class="product-carousel-price">
-                                        <ins>$899.00</ins> <del>$999.00</del>
+                                        <ins>KES 899.00</ins> <del>KES 999.00</del>
                                     </div> 
                                 </div>
                                 <div class="single-product">
@@ -192,10 +193,10 @@
                                         </div>
                                     </div>
 
-                                    <h2><a href="">Apple new i phone 6</a></h2>
+                                    <h2><a href="">Chockers</a></h2>
 
                                     <div class="product-carousel-price">
-                                        <ins>$400.00</ins> <del>$425.00</del>
+                                        <ins>kes 400.00</ins> <del>kes 425.00</del>
                                     </div>                                 
                                 </div>
                                 <div class="single-product">
@@ -207,10 +208,10 @@
                                         </div>
                                     </div>
 
-                                    <h2><a href="">Sony playstation microsoft</a></h2>
+                                    <h2><a href="">kneck bracelets</a></h2>
 
                                     <div class="product-carousel-price">
-                                        <ins>$200.00</ins> <del>$225.00</del>
+                                        <ins>kes 200.00</ins> <del>kes 225.00</del>
                                     </div>                            
                                 </div>
                                 <div class="single-product">
@@ -222,10 +223,10 @@
                                         </div>
                                     </div>
 
-                                    <h2><a href="">Sony Smart Air Condtion</a></h2>
+                                    <h2><a href="">Rings</a></h2>
 
                                     <div class="product-carousel-price">
-                                        <ins>$1200.00</ins> <del>$1355.00</del>
+                                        <ins>kes 1200.00</ins> <del>kes 1355.00</del>
                                     </div>                                 
                                 </div>
                                 <div class="single-product">
@@ -237,10 +238,10 @@
                                         </div>
                                     </div>
 
-                                    <h2><a href="">Samsung gallaxy note 4</a></h2>
+                                    <h2><a href="">anklets</a></h2>
 
                                     <div class="product-carousel-price">
-                                        <ins>$400.00</ins>
+                                        <ins>kes 300.00</ins>
                                     </div>                            
                                 </div>                                    
                             </div>
