@@ -150,11 +150,13 @@
                     <div class="footer-menu">
                         <h2 class="footer-wid-title">Categories</h2>
                         <ul>
-                            <li><a href="#">Mobile Phone</a></li>
-                            <li><a href="#">Home accesseries</a></li>
-                            <li><a href="#">LED TV</a></li>
-                            <li><a href="#">Computer</a></li>
-                            <li><a href="#">Gadets</a></li>
+                            <li><a href="#">Necklace</a></li>
+                            <li><a href="#">Earrings</a></li>
+                            <li><a href="#">Chockers</a></li>
+                            <li><a href="#">Brooch</a></li>
+                            <li><a href="#">Tie clip</a></li>
+                            <li><a href="#">watches</a></li>
+                            <li><a href="#">Cufflink</a></li>
                         </ul>                        
                     </div>
                 </div>
@@ -180,7 +182,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <div class="copyright">
-                        <p>&copy; 2019 Mapambo Kenya. All Rights Reserved. <a href="http://www.freshdesignweb.com" target="_blank">freshDesignweb.com</a></p>
+                        <p>&copy; 2019 Mapambo Kenya. All Rights Reserved. <a href="#" target="_blank">MapamboKenya.com</a></p>
                     </div>
                 </div>
                 
