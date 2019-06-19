@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\products;
 
 class shopController extends Controller
 {
@@ -13,7 +14,9 @@ class shopController extends Controller
      */
     public function index()
     {
-        return view ('shop');
+        $products = products::inRandomOrder()->take(10)->get();
+        return view ('shop')->with('products',$products);
+        
     }
 
     /**
